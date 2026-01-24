@@ -4,6 +4,8 @@ That's about it. Right now it's in beta so not everything is textured yet. Be su
 
 There's now a Bedrock port of LMN go check it out! - [LotsMaybeNothing Bedrock Edition](https://www.planetminecraft.com/texture-pack/lotsmaybenothing-bedrock-version/)
 
+There's going to extra stuff here to download soon, I don't know when though.
+
 ## LMN Roadmap
 
 **_*Updates may release late if I can't finish it in time._**
