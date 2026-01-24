@@ -40,7 +40,7 @@ The date is based off of the Planet Minecraft release date of LMN!
 
 **Releases: ??/??/2026 - ??:??PM (CST)**
 
-**Update Type: Major**
+**Update Type: Reguler**
 
 ## Changes:
  - All Hearts,
