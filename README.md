@@ -6,8 +6,6 @@ There's now a Bedrock port of LMN go check it out! - [LotsMaybeNothing Bedrock E
 
 There's going to extra stuff here to download soon, I don't know when though.
 
-Also the downloads are only for the Java Edition texture pack. The Issues page is for both Java and Bedrock verisons.
-
 ## LMN Roadmap
 
 **_*Updates may release late if I can't finish it in time._**
