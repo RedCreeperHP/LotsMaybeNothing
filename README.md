@@ -14,45 +14,40 @@ That's about it. Right now it's in beta so not everything is textured yet. Be su
 **_*Texture goals, release dates, and release times can be changed at anytime, some of these goal are not fully considered yet._**
 
 <details>
-<summary>BETA Update 3.1 Goal - Working On</summary>
+<summary>BETA Update 3.3 Goal - Working On</summary>
  
-**Releases: 01/28/2026 - 6:49PM (CST)**
+**Releases: ??/??/2026 - ??:??PM (CST)**
 
-The date is based off of the Planet Minecraft release date of LMN!
-
-**Update Type: Anniversary!**
+**Update Type: Regular**
 
 ## Changes:
-  - Both Azalea
-  - Both Azalea Leaves
-  - All Mushrooms Blocks
-  - Shroomlight
-  - Copper Rod (I forgot it in 2.9...)
-  - Cake's model
-  - Zombie, Creeper, & Copper Golem Retexture! (Maybe)
-  - And Much More!
+ - All Lapis stuff
+ - All Hanging Signs
+ - Minecart
+ - Turtle
+ - Chainmail Armor
+ - And more!
 
 </details>
 
 <details>
-<summary>BETA Update 3.2 Goal - Not Started</summary>
+<summary>BETA Update 3.4 Goal - Not Started</summary>
 
 **Releases: ??/??/2026 - ??:??PM (CST)**
 
-**Update Type: Reguler**
+**Update Type: Regular**
 
 ## Changes:
- - All Hearts,
- - XP Bar,
- - Dispenser & Dropper Container,
- - Gamemode Switch UI,
- - Enchanting Table,
- - Mushroom Stew,
- - Honey Bottle,
- - And much more! 
+ - All Beds
+ - All Bundles
+ - Flint and Steel
+ - Both Campfires
+ - Lava
+ - Fire
+ - And more!
 
 </details>
 
+Green = Released, Red = Delayed
 
-
-![LotsMaybeNothing Roadmap](https://cdn.modrinth.com/data/cached_images/134db2a5a4900ae3cb24c14556a4d67a150a0b69.png)
+![LMN Roadmap (JAVA)](https://cdn.modrinth.com/data/cached_images/10bd352755c1ad87c3aa18176423db4663c1b12f.png)
