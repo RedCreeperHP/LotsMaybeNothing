@@ -15,7 +15,7 @@ There are now some extra stuff here! Like [Bedrock Dev Builds](https://github.co
 <details>
 <summary>BETA Update 3.3 Goal - Working On</summary>
  
-**Releases: ??/??/2026 - ??:??PM (CST)**
+**Releases: 06/20/2026 - ??:??PM (CST)**
 
 **Update Type: Regular**
 
@@ -49,4 +49,4 @@ There are now some extra stuff here! Like [Bedrock Dev Builds](https://github.co
 
 Green = Released, Red = Delayed
 
-![LMN Roadmap (JAVA)](https://cdn.modrinth.com/data/cached_images/10bd352755c1ad87c3aa18176423db4663c1b12f.png)
+![LMN Roadmap (JAVA)](https://cdn.modrinth.com/data/cached_images/cb2e594c0f7ff43d01c11299f33677e044e386fc.png)
