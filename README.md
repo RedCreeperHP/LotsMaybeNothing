@@ -15,7 +15,7 @@ There are now some extra stuff here! Like [Bedrock Dev Builds](https://github.co
 <details>
 <summary>BETA Update 3.3 Goal - Working On</summary>
  
-**Releases: 06/20/2026 - ??:??PM (CST)**
+**Releases: 06/20/2026 - 5:00PM (CST)**
 
 **Update Type: Regular**
 
