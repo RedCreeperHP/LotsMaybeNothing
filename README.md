@@ -13,7 +13,7 @@ There are now some extra stuff here! Like [Bedrock Dev Builds](https://github.co
 **_*Texture goals, release dates, and release times can be changed at anytime, some of these goal are not fully considered yet._**
 
 <details>
-<summary>BETA Update 3.3 Goal - Working On</summary>
+<summary>BETA Update 3.3 Goal - Released</summary>
  
 **Releases: 06/20/2026 - 5:00PM (CST)**
 
