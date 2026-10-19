@@ -13,36 +13,37 @@ There are now some extra stuff here! Like [Bedrock Dev Builds](https://github.co
 **_*Texture goals, release dates, and release times can be changed at anytime, some of these goal are not fully considered yet._**
 
 <details>
-<summary>BETA Update 3.3 Goal - Released</summary>
+<summary>BETA Halloween Update 3.5 Goal - Working On</summary>
  
-**Releases: 06/20/2026 - 5:00PM (CST)**
+**Releases: 10/24/2026 - 5:00PM (CST)**
 
-**Update Type: Regular**
+**Update Type: Halloween!**
 
 ## Changes:
- - All Lapis stuff
- - All Hanging Signs
- - Minecart
- - Turtle
- - Chainmail Armor
+ - Frog
+ - All froglights
+ - All sculk
+ - Sniffer
+ - Torchflower
+ - Snow Golem
+ - Halloween Retextures
  - And more!
 
 </details>
 
 <details>
-<summary>BETA Update 3.4 Goal - Not Started</summary>
+<summary>BETA Christmas Update 3.6 Goal - Not Started</summary>
 
-**Releases: ??/??/2026 - ??:??PM (CST)**
+**Releases: 12/19/2026 - 5:00PM (CST)**
 
-**Update Type: Regular**
+**Update Type: Christmas!!**
 
 ## Changes:
- - All Beds
- - All Bundles
- - Flint and Steel
- - Both Campfires
- - Lava
- - Fire
+ - Compass
+ - Bell
+ - Daylight Detector
+ - Every Banner Pattern
+ - Christmas Retextures
  - And more!
 
 </details>
